@@ -1,0 +1,14 @@
+body{
+    text-align: center
+}
+input{
+    border-radius: 15px;
+    font-size: large;
+    width: 80px;
+    text-align: center;
+}
+button{
+    border-radius: 30px;
+    width: 180px;
+    font-size: large;
+}
